@@ -1,0 +1,23 @@
+[
+    {
+        "nom": "youcode",
+        "locals": "safi",
+        "descriptions": "A web development school",
+        "Département": [
+            {
+                "Nom": "class C",
+                "chef_département": "maryem",
+                "description": "part of school",
+                "liste_matricules": [
+                    {
+                        "Matricule": "1",
+                        "nomMatricule": "mohammed",
+                        "Prenom": "elhachimi",
+                        "Age": "21",
+                        "salaire": "50000 dh"
+                    }
+                ]
+            }
+        ]
+    }
+]
